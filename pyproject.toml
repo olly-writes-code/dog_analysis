@@ -12,6 +12,7 @@ beautifulsoup4 = "^4.8.2"
 requests = "^2.22.0"
 html5lib = "^1.0.1"
 loguru = "^0.4.1"
+tqdm = "^4.42.1"
 
 [tool.poetry.dev-dependencies]
 

@@ -426,6 +426,17 @@ version = "1.9.5"
 
 [[package]]
 category = "main"
+description = "Fast, Extensible Progress Meter"
+name = "tqdm"
+optional = false
+python-versions = ">=2.6, !=3.0.*, !=3.1.*"
+version = "4.42.1"
+
+[package.extras]
+dev = ["py-make (>=0.1.0)", "twine", "argopt", "pydoc-markdown"]
+
+[[package]]
+category = "main"
 description = "An asynchronous networking framework written in Python"
 marker = "python_version >= \"3.5\""
 name = "twisted"
@@ -515,7 +526,7 @@ test = ["zope.event"]
 testing = ["coverage", "nose", "zope.event"]
 
 [metadata]
-content-hash = "b67e692af7d74c6500ce49fbea0c4df727ea205472f30954606f706a066f6539"
+content-hash = "bf1e3a7134fd509b454520b403c1ce38b226da4ee297994a883d41a197b22ec5"
 python-versions = "^3.8"
 
 [metadata.files]
@@ -779,6 +790,10 @@ six = [
 soupsieve = [
     {file = "soupsieve-1.9.5-py2.py3-none-any.whl", hash = "sha256:bdb0d917b03a1369ce964056fc195cfdff8819c40de04695a80bc813c3cfa1f5"},
     {file = "soupsieve-1.9.5.tar.gz", hash = "sha256:e2c1c5dee4a1c36bcb790e0fabd5492d874b8ebd4617622c4f6a731701060dda"},
+]
+tqdm = [
+    {file = "tqdm-4.42.1-py2.py3-none-any.whl", hash = "sha256:fe231261cfcbc6f4a99165455f8f6b9ef4e1032a6e29bccf168b4bf42012f09c"},
+    {file = "tqdm-4.42.1.tar.gz", hash = "sha256:251ee8440dbda126b8dfa8a7c028eb3f13704898caaef7caa699b35e119301e2"},
 ]
 twisted = [
     {file = "Twisted-19.10.0-cp27-cp27m-manylinux1_i686.whl", hash = "sha256:257dbc78e72bc69c2970035fc74df54b04573d5ddd380251a8a23f74d619db03"},
