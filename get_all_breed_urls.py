@@ -9,6 +9,7 @@ INPUT_URL = "https://www.akc.org/dog-breeds/?letter="
 ### hard coded to save time for now
 NUMBER_OF_PAGES = 24
 
+
 def get_breed_urls_from_page(page_number):
     html_data = requests.get(f"https://www.akc.org/dog-breeds/page/{page_number}/")
     html_soup = BeautifulSoup(html_data.content, "html5lib")
@@ -23,7 +24,12 @@ def get_breed_urls_from_page(page_number):
 
 if __name__ == "__main__":
     all_breed_urls = set()
-    for i in range(1, NUMBER_OF_PAGES+1):
+    for i in range(1, NUMBER_OF_PAGES + 1):
         all_breed_urls.update(get_breed_urls_from_page(i))
-    print(all_breed_urls)
-    print(len(all_breed_urls))
+    outF = open("dog_breed_urls.txt", "w")
+    for idx, breed_url in enumerate(all_breed_urls):
+        # write line to output file
+        outF.write(breed_url)
+        if idx < len(all_breed_urls) - 1:
+            outF.write("\n")
+    outF.close()
