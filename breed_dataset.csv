@@ -9,3 +9,190 @@ American Eskimo Dog,"Playful,Perky,Smart",Small,14.0,5,4.0,3.0,2,3.0
 American Foxhound,"Easy-Going,Sweet-Tempered,Independent",Medium,12.0,2,5.0,3.0,2,1.0
 American Hairless Terrier,"Energetic,Alert,Curious",Small,15.0,5,5.0,5.0,3,3.0
 American Staffordshire Terrier,"Smart,Confident,Good-Natured",Medium,14.0,3,5.0,4.0,3,3.0
+American Water Spaniel,"Eager,Happy,Charming",Medium,12.0,5,3.0,5.0,3,3.0
+Anatolian Shepherd Dog,"Independent,Loyal,Reserved",XLarge,12.0,2,4.0,3.0,3,3.0
+Australian Cattle Dog,"Alert,Curious,Pleasant",Medium,14.0,1,5.0,2.0,1,5.0
+Australian Shepherd,"Smart,Work-Oriented,Exuberant",Medium,13.5,5,4.0,3.0,2,3.0
+Australian Terrier,"Spirited,Courageous,Affectionate",Small,13.0,3,4.0,5.0,2,1.0
+Azawakh,"Loyal,Deeply Affectionate,Independent",Large,13.5,4,4.0,4.0,2,3.0
+Barbet,"Friendly,Bright,Sweet-Natured",Medium,13.0,3,4.0,5.0,3,3.0
+Basenji,"Smart,Poised,Independent",Small,13.5,2,5.0,4.0,2,5.0
+Basset Hound,"Patient,Low-Key,Charming",Medium,12.5,2,3.0,4.0,4,1.0
+Beagle,"Merry,Friendly,Curious",Small,12.5,3,3.0,3.0,2,2.0
+Bearded Collie,"Bouncy,Smart,Charismatic",Medium,13.0,2,2.0,3.0,3,1.0
+Beauceron,"Faithful,Gentle,Obedient",Large,11.0,4,3.0,1.0,1,3.0
+Bedlington Terrier,"Frollicking,Charming,Loyal",Small,13.5,3,3.0,5.0,2,3.0
+Belgian Malinois,"Smart,Confident,Hardworking",Large,15.0,4,4.0,3.0,2,3.0
+Belgian Sheepdog,"Bright,Watchful,Serious-Minded",Large,13.0,4,3.0,3.0,2,3.0
+Belgian Tervuren,"Intelligent,Courageous,Alert",Large,13.0,4,3.0,3.0,2,3.0
+Bergamasco Sheepdog,"Sociable,Intelligent,Independent",Medium,14.0,3,5.0,5.0,4,5.0
+Berger Picard,"Good-Natured,Loyal,Observant",Large,12.5,5,5.0,3.0,1,4.0
+Bernese Mountain Dog,"Good-Natured,Calm,Strong",XLarge,8.5,4,3.0,1.0,2,3.0
+Bichon Frise,"Playful,Curious,Peppy",Small,14.5,3,1.0,5.0,3,3.0
+Black and Tan Coonhound,"Easy-Going,Bright,Brave",Large,11.0,2,4.0,3.0,3,2.0
+Black Russian Terrier,"Powerful,Intelligent,Calm",Large,11.0,4,2.0,3.0,2,3.0
+Bloodhound,"Independent,Inquisitive,Friendly",Large,11.0,2,4.0,3.0,3,1.0
+Bluetick Coonhound,"Smart,Devoted,Tenacious",Medium,11.5,3,4.0,3.0,2,2.0
+Boerboel,"Intelligent,Calm,Confident",XLarge,10.0,3,5.0,4.0,4,5.0
+Border Collie,"Smart,Affectionate,Energetic",Medium,13.5,5,3.0,3.0,1,3.0
+Border Terrier,"Plucky,Happy,Affectionate",Small,13.5,4,4.0,4.0,3,3.0
+Borzoi,"Regally Dignified,Loyal,Affectionate",Large,11.5,2,4.0,3.0,2,4.0
+Boston Terrier,"Friendly,Bright,Amusing",Small,12.0,5,4.0,5.0,3,4.0
+Bouvier des Flandres,"Strong-Willed,Courageous,Affectionate",Large,11.0,3,2.0,3.0,2,3.0
+Boxer,"Fun-Loving,Bright,Active",Large,11.0,4,4.0,4.0,2,3.0
+Boykin Spaniel,"Friendly,Eager,Lovable",Medium,12.5,5,3.0,3.0,3,3.0
+Briard,"Smart,Confident,Faithful",Large,12.0,2,2.0,5.0,3,5.0
+Brittany,"Bright,Upbeat,Fun-Loving",Medium,13.0,5,3.0,3.0,1,3.0
+Brussels Griffon,"Alert,Curious,Loyal",XSmall,13.5,3,3.0,3.0,3,1.0
+Bull Terrier,"Playful,Charming,Mischievous",Medium,12.5,2,4.0,3.0,2,3.0
+Bulldog,"Calm,Courageous,Friendly",Medium,9.0,3,3.0,2.0,3,4.0
+Bullmastiff,"Brave,Affectionate,Loyal",XLarge,8.0,3,5.0,3.0,2,5.0
+Cairn Terrier,"Cheerful,Alert,Busy",Small,14.0,3,4.0,4.0,3,3.0
+Canaan Dog,"Alert,Vigilant,Confident",Medium,13.5,2,4.0,1.0,3,1.0
+Cane Corso,"Intelligent,Affectionate,Majestic",Large,10.5,3,5.0,4.0,2,3.0
+Cardigan Welsh Corgi,"Loyal,Affectionate,Smart",Small,13.5,3,4.0,3.0,2,1.0
+Cavalier King Charles Spaniel,"Affectionate,Graceful,Gentle",Small,13.5,5,4.0,4.0,4,3.0
+Cesky Terrier,"Clever,Adventurous,Family-Oriented",Small,13.5,3,4.0,4.0,3,3.0
+Chesapeake Bay Retriever,"Bright,Sensitive,Affectionate",Large,11.5,3,3.0,2.0,2,3.0
+Chihuahua,"Graceful,Charming,Sassy",XSmall,15.0,2,5.0,4.0,3,1.0
+Chinese Crested,"Lively,Alert,Affectionate",XSmall,15.5,3,5.0,5.0,3,3.0
+Chinese Shar-Pei,"Independent,Loyal,Calm",Medium,10.0,1,5.0,2.0,3,3.0
+Chinook,"Patient,Smart,Devoted",Large,13.5,5,4.0,3.0,2,3.0
+Chow Chow,"Serious-Minded,Bright,Dignified",Medium,10.0,1,3.0,3.0,3,5.0
+Cirneco dell’Etna,"Independent,Friendly,Affectionate",Medium,13.0,3,5.0,5.0,3,4.0
+Clumber Spaniel,"Mellow,Gentlemanly,Amusing",Medium,11.0,3,4.0,2.0,3,5.0
+Cocker Spaniel,"Happy,Smart,Gentle",Small,12.0,5,2.0,4.0,3,3.0
+Collie,"Graceful,Devoted,Proud",Medium,13.0,4,3.0,3.0,3,1.0
+Coton de Tulear,"Happy-Go-Lucky,Bright,Charming",Small,17.0,4,2.0,4.0,3,5.0
+Curly-Coated Retriever,"Confident,Proud,Wickedly Smart",Large,11.0,2,5.0,4.0,2,3.0
+Dachshund,"Spunky,Curious,Friendly",Small,14.0,3,4.0,4.0,3,1.0
+Dalmatian,"Outgoing,Dignified,Smart",Medium,12.0,3,4.0,1.0,2,3.0
+Dandie Dinmont Terrier,"Independent,Proud,Smart",Small,13.5,2,2.0,5.0,3,3.0
+Doberman Pinscher,"Alert,Fearless,Loyal",Large,11.0,5,5.0,2.0,1,3.0
+Dogo Argentino,"Cheerful,Humble,Friendly",Large,12.0,5,5.0,5.0,1,5.0
+Dogue de Bordeaux,"Loyal,Affectionate,Courageous",XLarge,6.5,3,5.0,2.0,3,3.0
+English Cocker Spaniel,"Merry,Responsive,Energetic",Medium,13.0,5,3.0,4.0,3,3.0
+English Foxhound,"Gentle,Affectionate,Sociable",Medium,11.5,3,5.0,2.0,2,1.0
+English Setter,"Friendly,Mellow,Merry",Medium,12.0,4,3.0,2.0,2,3.0
+English Springer Spaniel,"Friendly,Playful,Obedient",Medium,13.0,5,4.0,4.0,3,3.0
+English Toy Spaniel,"Gentle,Playful,Intelligent",Small,11.0,2,3.0,3.0,3,5.0
+Entlebucher Mountain Dog,"Enthusiastic,Loyal,Smart",Medium,12.0,2,5.0,5.0,1,3.0
+Field Spaniel,"Sweet,Sensitive,Fun-Loving",Medium,12.5,3,4.0,2.0,3,3.0
+Finnish Lapphund,"Agile,Alert,Friendly",Medium,13.5,5,4.0,3.0,3,2.0
+Finnish Spitz,"Lively,Friendly,Good-Natured",Medium,14.0,3,4.0,3.0,1,2.0
+Flat-Coated Retriever,"Cheerful,Optimistic,Good-Humored",Medium,9.0,5,4.0,2.0,1,3.0
+French Bulldog,"Playful,Smart,Adaptable",Small,11.0,3,5.0,2.0,4,5.0
+German Pinscher,"Intelligent,Courageous,Vivacious",Medium,13.0,3,5.0,4.0,1,5.0
+German Shepherd Dog,"Smart,Confident,Courageous",Large,8.5,5,4.0,2.0,3,3.0
+German Shorthaired Pointer,"Friendly,Smart,Willing to Please",Medium,11.0,5,4.0,2.0,1,3.0
+German Wirehaired Pointer,"Affectionate,Eager,Enthusiastic",Medium,15.0,5,4.0,2.0,1,3.0
+Giant Schnauzer,"Loyal,Alert,Trainable",Large,13.5,4,2.0,5.0,1,3.0
+Glen of Imaal Terrier,"Gentle,Bold,Spirited",Small,12.5,2,3.0,4.0,3,4.0
+Golden Retriever,"Intelligent,Friendly,Devoted",Large,11.0,5,4.0,3.0,1,5.0
+Gordon Setter,"Bold,Confident,Affectionate",Large,12.5,2,4.0,3.0,1,2.0
+Grand Basset Griffon Vendéen,"Happy,Outgoing,Independent",Medium,14.0,2,4.0,3.0,1,2.0
+Great Dane,"Friendly,Patient,Dependable",XLarge,8.5,3,5.0,3.0,2,3.0
+Great Pyrenees,"Calm,Patient,Smart",XLarge,11.0,2,4.0,3.0,1,2.0
+Greater Swiss Mountain Dog,"Faithful,Dependable,Family-Oriented",XLarge,9.5,3,4.0,3.0,2,3.0
+Greyhound,"Independent,Gentle,Noble",Large,11.5,2,5.0,4.0,2,3.0
+Harrier,"Outgoing,Friendly,People-Oriented",Medium,13.5,4,4.0,4.0,1,2.0
+Havanese,"Outgoing,Funny,Intelligent",Small,15.0,4,3.0,4.0,3,3.0
+Ibizan Hound,"Even-Tempered,Polite,Family-Oriented",Large,12.5,2,5.0,4.0,1,3.0
+Icelandic Sheepdog,"Playful,Friendly,Inquisitive",Medium,13.0,5,4.0,3.0,2,2.0
+Irish Red and White Setter,"Courageous,Spirited,Determined",Large,13.0,4,4.0,5.0,1,3.0
+Irish Setter,"Outgoing,Sweet-Natured,Active",Large,13.5,3,3.0,3.0,1,3.0
+Irish Terrier,"Bold,Dashing,Tenderhearted",Medium,14.0,3,5.0,5.0,3,3.0
+Irish Water Spaniel,"Hardworking,Brave,Playful",Large,12.5,4,4.0,3.0,1,5.0
+Irish Wolfhound,"Calm,Dignified,Courageous",XLarge,7.0,2,4.0,3.0,3,5.0
+Italian Greyhound,"Sensitive,Alert,Playful",Small,14.5,2,5.0,3.0,3,5.0
+Japanese Chin,"Charming,Loving,Noble",XSmall,11.0,2,4.0,3.0,3,4.0
+Keeshond,"Outgoing,Lively,Friendly",Medium,13.5,4,3.0,3.0,3,3.0
+Kerry Blue Terrier,"Smart,Alert,People-Oriented",Medium,13.5,2,3.0,5.0,3,3.0
+Komondor,"Dignified,Brave,Loyal",Large,11.0,2,1.0,3.0,3,3.0
+Kuvasz,"Loyal,Fearless,Sweet",Large,11.0,2,4.0,2.0,3,3.0
+Labrador Retriever,"Friendly,Active,Outgoing",Large,11.0,5,4.0,2.0,1,3.0
+Lagotto Romagnolo,"Keen,Affectionate,Undemanding",Medium,16.0,5,5.0,5.0,3,4.0
+Lakeland Terrier,"Bold,Friendly,Confident",Small,13.5,3,4.0,5.0,3,3.0
+Leonberger,"Gentle,Playful,Friendly",XLarge,9.0,5,2.0,2.0,3,3.0
+Lhasa Apso,"Smart,Confident,Comical",Small,13.5,2,3.0,5.0,3,3.0
+Lowchen,"Outgoing,Positive,Affectionate",Small,15.0,3,5.0,5.0,3,3.0
+Maltese,"Gentle,Playful,Charming",XSmall,13.5,3,2.0,5.0,3,3.0
+Manchester Terrier (Standard),"Spirited,Bright,Keenly Observant",Small,16.0,4,4.0,4.0,3,3.0
+Manchester Terrier (Toy),"Agile,Spirited,Intelligent",XSmall,16.0,4,4.0,4.0,3,3.0
+Mastiff,"Courageous,Dignified,Good-Natured",XLarge,8.0,3,5.0,4.0,3,5.0
+Miniature American Shepherd,"Good-Natured,Devoted,Intelligent",Medium,12.5,5,2.0,1.0,2,4.0
+Miniature Bull Terrier,"Upbeat,Mischievous,Comical",Small,12.0,2,5.0,4.0,2,1.0
+Miniature Pinscher,"Proud,Fearless,Fun-Loving",XSmall,14.0,2,5.0,5.0,3,1.0
+Miniature Schnauzer,"Friendly,Smart,Obedient",Small,13.5,5,1.0,5.0,3,1.0
+Neapolitan Mastiff,"Watchful,Dignified,Loyal",XLarge,8.0,1,4.0,3.0,3,5.0
+Nederlandse Kooikerhondje,"Friendly,Quick,Alert",Medium,13.5,5,4.0,3.0,3,5.0
+Newfoundland,"Sweet,Devoted,Patient",XLarge,9.5,4,4.0,3.0,3,5.0
+Norfolk Terrier,"Alert,Fearless,Fun-Loving",Small,14.0,3,4.0,3.0,3,3.0
+Norwegian Buhund,"Smart,Perceptive,Confident",Medium,13.5,4,4.0,3.0,2,2.0
+Norwegian Elkhound,"Confident,Dependable,Friendly",Medium,13.5,3,4.0,3.0,3,3.0
+Norwegian Lundehund,"Energetic,Alert,Loyal",Small,13.5,3,4.0,3.0,2,3.0
+Norwich Terrier,"Alert,Curious,Affectionate",Small,13.5,3,4.0,3.0,2,3.0
+Nova Scotia Duck Tolling Retriever,"Intelligent,Outgoing,Affectionate",Medium,13.0,4,4.0,3.0,1,5.0
+Old English Sheepdog,"Adaptable,Smart,Gentle",Large,11.0,2,3.0,3.0,3,3.0
+Otterhound,"Amiable,Boisterous,Even-Tempered",Large,11.5,1,4.0,3.0,3,1.0
+Papillon,"Happy,Alert,Friendly",XSmall,15.0,5,4.0,3.0,3,1.0
+Parson Russell Terrier,"Clever,Friendly,Athletic",Small,14.0,3,4.0,4.0,1,3.0
+Pekingese,"Affectionate,Loyal,Regal in Manner",Small,13.0,1,3.0,3.0,4,5.0
+Pembroke Welsh Corgi,"Smart,Alert,Affectionate",Small,12.5,3,4.0,2.0,2,3.0
+Petit Basset Griffon Vendéen,"Alert,Vivacious,Happy",Medium,13.0,2,4.0,4.0,2,3.0
+Pharaoh Hound,"Smart,Noble,Friendly",Medium,13.0,2,4.0,3.0,2,1.0
+Plott Hound,"Loyal,Intelligent,Alert",Medium,13.0,2,5.0,4.0,2,2.0
+Pointer,"Even-Tempered,Hardworking,Loyal",Large,14.5,3,4.0,4.0,2,3.0
+Polish Lowland Sheepdog,"Lively,Clever,Confident",Medium,13.0,1,2.0,3.0,2,3.0
+Pomeranian,"Lively,Bold,Inquisitive",XSmall,14.0,3,3.0,3.0,3,3.0
+Poodle (Miniature),"Proud,Active,Very Smart",Small,14.0,5,5.0,5.0,2,3.0
+Poodle (Standard),"Proud,Active,Very Smart",Medium,14.0,5,1.0,5.0,2,3.0
+Poodle (Toy),"Agile,Intelligent,Self-Confident",XSmall,14.0,5,1.0,5.0,2,3.0
+Portuguese Podengo Pequeno,"Lively,Playful,Charming",Small,13.5,3,4.0,3.0,2,3.0
+Portuguese Water Dog,"Affectionate,Athletic,Adventurous",Medium,12.0,4,2.0,3.0,2,3.0
+Pug,"Loving,Charming,Mischievous",Small,14.0,3,4.0,2.0,3,5.0
+Puli,"Loyal,Smart,Home-Loving",Medium,12.5,2,1.0,5.0,3,3.0
+Pumi,"Energetic,Lively,Ready to Work",Small,12.5,4,5.0,5.0,2,3.0
+Pyrenean Shepherd,"Enthusiastic,Affectionate,Active",Medium,18.0,3,4.0,3.0,2,2.0
+Rat Terrier,"Friendly,Lovable,Inquisitive",Small,15.0,4,4.0,3.0,3,3.0
+Redbone Coonhound,"Even-Tempered,Amiable,Eager to Please",Large,13.5,4,4.0,3.0,3,2.0
+Rhodesian Ridgeback,"Dignified,Even-Tempered,Affectionate",Large,10.0,2,4.0,3.0,3,4.0
+Rottweiler,"Loyal,Loving,Confident Guardian",Large,9.5,3,4.0,3.0,3,5.0
+Russell Terrier,"Alert,Lively,Inquisitive",Small,13.0,3,4.0,4.0,1,3.0
+Saint Bernard,"Inquisitive,Playful,Charming",XLarge,9.0,3,4.0,3.0,3,5.0
+Saluki,"Gentle,Dignified,Independent-Minded",Large,13.5,2,5.0,4.0,2,3.0
+Samoyed,"Gentle,Adaptable,Friendly",Medium,13.0,2,3.0,3.0,2,1.0
+Schipperke,"Alert,Curious,Confident",Small,13.0,2,4.0,3.0,2,2.0
+Scottish Deerhound,"Dignified,Gentle,Polite",XLarge,9.5,2,5.0,3.0,3,5.0
+Scottish Terrier,"Independent,Confident,Spirited",Small,12.0,2,3.0,4.0,3,3.0
+Sealyham Terrier,"Alert,Outgoing,Sense Of Humor",Small,13.0,2,3.0,3.0,3,3.0
+Shetland Sheepdog,"Bright,Playful,Energetic",Small,13.0,5,3.0,3.0,3,2.0
+Shiba Inu,"Alert,Active,Attentive",Small,14.5,2,4.0,3.0,3,1.0
+Shih Tzu,"Outgoing,Affectionate,Playful",Small,14.0,3,2.0,5.0,3,3.0
+Siberian Husky,"Loyal,Outgoing,Mischievous",Medium,13.0,2,4.0,3.0,2,1.0
+Silky Terrier,"Keenly Alert,Friendly,Quick",XSmall,14.0,3,3.0,4.0,3,1.0
+Skye Terrier,"Courageous,Good-Tempered,Canny",Medium,13.0,2,2.0,3.0,3,3.0
+Sloughi,"Reserved,Graceful,Noble",Large,12.5,2,4.0,5.0,3,4.0
+Smooth Fox Terrier,"Friendly,Independent,Amusing",Small,13.5,3,4.0,4.0,2,3.0
+Soft Coated Wheaten Terrier,"Happy,Friendly,Deeply Devoted",Medium,13.0,2,3.0,5.0,2,3.0
+Spanish Water Dog,Playful but also Work-Oriented. Very Active and Upbeat.,Medium,13.0,5,1.0,5.0,2,3.0
+Staffordshire Bull Terrier,"Brave,Tenacious,Clever",Medium,13.0,1,4.0,4.0,2,3.0
+Standard Schnauzer,"Smart,Fearless,Spirited",Medium,14.5,2,3.0,5.0,3,3.0
+Sussex Spaniel,"Merry,Friendly,Even-Tempered",Medium,14.0,2,3.0,3.0,3,3.0
+Swedish Vallhund,"Watchful,Energetic,Friendly",Small,13.5,5,5.0,3.0,1,3.0
+Tibetan Mastiff,"Intelligent,Reserved,Independent",XLarge,11.0,2,3.0,3.0,3,2.0
+Tibetan Spaniel,"Self-Confident,Bright,Playful",Small,13.5,3,4.0,3.0,4,5.0
+Tibetan Terrier,"Loyal,Sensitive,Affectionate",Small,15.5,2,3.0,3.0,2,3.0
+Toy Fox Terrier,"Intelligent,Alert,Friendly",XSmall,14.0,5,4.0,4.0,2,3.0
+Treeing Walker Coonhound,"Smart,Brave,Courteous",Large,12.5,2,5.0,3.0,3,2.0
+Vizsla,"Gentle,Affectionate,Energetic",Medium,13.0,5,4.0,3.0,2,3.0
+Weimaraner,"Friendly,Fearless,Obedient",Large,11.5,5,4.0,3.0,1,3.0
+Welsh Springer Spaniel,"Happy,Upbeat,Reserved",Medium,13.5,4,4.0,5.0,2,3.0
+Welsh Terrier,"Friendly,Spirited,Intelligent",Small,13.5,3,3.0,4.0,2,3.0
+West Highland White Terrier,"Happy,Loyal,Entertaining",Small,14.0,3,2.0,3.0,3,1.0
+Whippet,"Calm,Affectionate,Playful",Medium,13.5,2,5.0,4.0,3,5.0
+Wire Fox Terrier,"Gregarious,Alert,Confident",Small,13.5,3,4.0,5.0,3,3.0
+Wirehaired Pointing Griffon,"Devoted,Friendly,Trainable",Medium,13.5,3,4.0,3.0,1,3.0
+Wirehaired Vizsla,"Loyal,Gentle,Trainable",Medium,13.0,3,5.0,3.0,2,3.0
+Xoloitzcuintli,"Loyal,Alert,Calm",Medium,15.5,3,5.0,5.0,2,3.0
+Yorkshire Terrier,"Sprightly,Tomboyish,Affectionate",XSmall,13.0,1,1.0,5.0,3,3.0
